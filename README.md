@@ -1,3 +1,191 @@
+
+
+
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="Proyecto Tesis Banner" width="600"/>
+</p>
+
+<h1 align="center">📘 Tesis de Ingeniería en Sistemas Computacionales</h1>
+
+<p align="center">
+  Guía completa en formato Markdown y LaTeX para el desarrollo de una tesis profesional basada en virtualización de macOS en procesadores AMD utilizando herramientas como VMware y Virt-Manager.
+</p>
+
+---
+
+## 📚 Tabla de Contenidos
+
+1. [Selección de la Propuesta](#1-selección-de-la-propuesta)
+2. [Contenido de la Propuesta](#2-contenido-de-la-propuesta)
+3. [Metodología de Trabajo para la Tesis](#3-metodología-de-trabajo-para-la-tesis)
+4. [El Asesor de Tesis](#4-el-asesor-de-tesis)
+5. [Análisis de Oportunidades](#5-análisis-de-oportunidades)
+6. [Acotaciones al Alcance](#6-acotaciones-al-alcance)
+7. [Enfoque de la Propuesta](#7-enfoque-de-la-propuesta)
+8. [Propuesta como Solución](#8-propuesta-como-solución)
+9. [Marco Teórico](#9-marco-teórico)
+10. [Metodología de Investigación](#10-metodología-de-investigación)
+11. [Delimitación del Proyecto](#11-delimitación-del-proyecto)
+12. [Cronograma de Actividades](#12-cronograma-de-actividades)
+13. [Recursos Necesarios](#13-recursos-necesarios)
+14. [Mecanismos de Evaluación](#14-mecanismos-de-evaluación)
+15. [Bibliografía y Citas](#15-bibliografía-y-citas)
+
+---
+
+## 1. Selección de la Propuesta
+
+**Descripción breve:**  
+Análisis y definición del tema central del proyecto de tesis en función de su aplicabilidad, innovación y relevancia.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-seleccion)
+
+---
+
+## 2. Contenido de la Propuesta
+
+**Descripción breve:**  
+Estructura completa de la propuesta técnica y académica que compone el cuerpo de la tesis.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-contenido)
+
+---
+
+## 3. Metodología de Trabajo para la Tesis
+
+**Descripción breve:**  
+Definición de técnicas, procesos y recursos necesarios para desarrollar el proyecto de tesis de forma sistemática.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-metodologia)
+
+---
+
+## 4. El Asesor de Tesis
+
+**Descripción breve:**  
+Rol, responsabilidades y acompañamiento académico del asesor durante el desarrollo del trabajo de tesis.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-asesor)
+
+---
+
+## 5. Análisis de Oportunidades
+
+**Descripción breve:**  
+Identificación de necesidades o problemas reales que justifican la propuesta de solución.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-oportunidades)
+
+---
+
+## 6. Acotaciones al Alcance
+
+**Descripción breve:**  
+Delimitación clara de lo que se abordará y no se abordará en el proyecto de tesis.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-alcance)
+
+---
+
+## 7. Enfoque de la Propuesta
+
+**Descripción breve:**  
+Visión técnica, académica o social con la que se plantea abordar la problemática propuesta.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-enfoque)
+
+---
+
+## 8. Propuesta como Solución
+
+**Descripción breve:**  
+Descripción clara de la solución planteada basada en tecnología, innovación o mejora de procesos.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-solucion)
+
+---
+
+## 9. Marco Teórico
+
+**Descripción breve:**  
+Fundamentación conceptual y técnica sobre la cual se apoya la propuesta.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-marco-teorico)
+
+---
+
+## 10. Metodología de Investigación
+
+**Descripción breve:**  
+Técnicas de investigación seleccionadas para validar la propuesta y obtener resultados objetivos.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-investigacion)
+
+---
+
+## 11. Delimitación del Proyecto
+
+**Descripción breve:**  
+Espacio, tiempo y recursos disponibles para el desarrollo del trabajo de tesis.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-delimitacion)
+
+---
+
+## 12. Cronograma de Actividades
+
+**Descripción breve:**  
+Plan temporal detallado con actividades, fechas y responsables del desarrollo del proyecto.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-cronograma)
+
+---
+
+## 13. Recursos Necesarios
+
+**Descripción breve:**  
+Listado y descripción de recursos materiales, humanos y tecnológicos para ejecutar el proyecto.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-recursos)
+
+---
+
+## 14. Mecanismos de Evaluación
+
+**Descripción breve:**  
+Criterios, herramientas y procedimientos para medir el cumplimiento de objetivos.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-evaluacion)
+
+---
+
+## 15. Bibliografía y Citas
+
+**Descripción breve:**  
+Fuentes académicas y técnicas utilizadas para sustentar la investigación.
+
+🔗 [Repositorio GitHub](https://github.com/tuusuario/tesis-bibliografia)
+
+---
+
+¿Quieres que genere también los **archivos individuales en `.md` para cada uno de los temas** automáticamente listos para subir al repo?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------
+
+
 ![My Post-4](https://raw.githubusercontent.com/dlphin/dolphin/main/os-tweaks.png)
 
 <p align=center> A list of tweaks and programs for Windows which can be used to tweak or rice your system.
