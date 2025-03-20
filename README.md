@@ -1,4 +1,4 @@
-<h1 align="center">WinScript</h1>
+<h1 align="center">11Top</h1>
 
 <p align="center">WinScript is an open-source tool built to help you build custom scripts for Windows. It includes debloat, privacy, performance scripts & more, along with the ability to install all your favourite apps in one click.</p>
 
